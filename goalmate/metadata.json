@@ -1,0 +1,6 @@
+{
+  "name": "GoalMate",
+  "description": "Smart Goal Planner to set goals, break down milestones, manage daily tasks, track habits, set reminders, and boost productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
